@@ -18,11 +18,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em projetos web
 - Técnico em Desenvolvimento de Sistemas - 4º Periodo - Cursando
 - Técnico em Informática - Concluido em 2015 - Senai/Sc- São José
 
-## Projetos
-
-- Projeto A: Descrição breve do projeto A.
-- Projeto B: Descrição breve do projeto B.
-
 ## Contato
 
 - E-mail: furlani.lucas7@gmail.com
